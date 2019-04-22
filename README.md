@@ -2,5 +2,5 @@
 Arduino &lt;-> Prosim737 interface
 
 Edit:
-Since I'm not using Prosim737 anymore, there won't be any further development and/or support.
+Since the author of original project does not support it anymore, i forked it and it may have some further development. Or may not :)
 Best regards
